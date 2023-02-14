@@ -1,0 +1,42 @@
+.butn{
+    height: 50px;
+    width: 200px;
+    border-radius:25px;
+    border: 2px solid;
+    background-color: #a8d741;
+    transition: .5s;
+}
+
+.butn:hover{
+    
+    transform: rotate(7deg);
+    background-color: #f9f9f9;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+.fa-chevron-right{
+    margin-left: 5px;
+    padding: 5px 10px;
+    background-color: black;
+    color:white;
+    border-radius: 50%;
+}
+
+.container{
+   background-color: #a8d741;
+}
+.bt{
+    background-color: black;
+    color: white;
+}
+.bt:hover{
+    color: black;
+}
+.icon11{
+    color: #a8d741;
+    font-size: 80px;
+}
+
