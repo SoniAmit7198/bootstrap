@@ -25,7 +25,7 @@ li{
     border-radius: 50%;
 }
 
-.container{
+.con{
    background-color: #a8d741;
 }
 .bt{
@@ -39,5 +39,13 @@ li{
     color: #a8d741;
     font-size: 80px;
 }
+.item-wrapper{
+    height: 400px;
+}
+.item-img{
+    height:200px ;
+    object-fit: contain;
+}
+
 
 
