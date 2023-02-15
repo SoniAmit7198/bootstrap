@@ -58,3 +58,11 @@ li{
 .btt{
     width: 140px;
 }
+
+.item-wrapper1{
+    height: 450px;
+}
+.item-img1{
+    height:260px ;
+    object-fit: contain;
+}
