@@ -43,9 +43,18 @@ li{
     height: 400px;
 }
 .item-img{
-    height:200px ;
+    height:225px ;
     object-fit: contain;
 }
 
+.hovv{
+    transition: 1s;
+}
 
+.hovv:hover{
+    transform: rotate(2deg);
+}
 
+.btt{
+    width: 140px;
+}
